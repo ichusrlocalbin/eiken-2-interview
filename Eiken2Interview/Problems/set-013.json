@@ -1,0 +1,57 @@
+{
+  "id": "set-013",
+  "title": "Emergency Information",
+  "passage": "Japan has many natural disasters, such as earthquakes and heavy rain. Some cities send emergency information to people's smartphones. People can quickly learn where they should go, and in this way, they are able to escape to safe places. However, some elderly people do not have smartphones, so cities also need other ways to share information.",
+  "no1": {
+    "question": "According to the passage, how are people able to escape to safe places?",
+    "modelAnswer": "By quickly learning where they should go from the emergency information on their smartphones.",
+    "keyPoints": [
+      "スマートフォンに届く緊急情報（emergency information）に触れている",
+      "どこへ行けばよいかをすぐに知る（learn where they should go）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-013-illust.png",
+    "openingSentence": "One day, Mr. and Mrs. Ono were watching the news with their daughter.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "地震のニュースを見て、娘が「非常用のバッグを用意したほうがいい（We should prepare an emergency bag.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "That afternoon",
+        "keyPoints": [
+          "娘がバッグに水のペットボトルを入れている",
+          "Mr. Ono が懐中電灯を確認している（Mrs. Ono は缶詰を持っている）"
+        ]
+      },
+      {
+        "timeLabel": "A few days later",
+        "keyPoints": [
+          "夜に停電した",
+          "娘が懐中電灯で引き出しを探しているが、非常用バッグがどこにあるか分からない"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Mr. and Mrs. Ono were watching the news with their daughter. Their daughter said to them, \"We should prepare an emergency bag.\" That afternoon, their daughter was putting bottles of water into a bag. Mr. Ono was checking a flashlight. A few days later, the power went out at night. Their daughter was looking for the emergency bag with a flashlight, but she did not know where it was."
+  },
+  "no3": {
+    "question": "Some people say that schools should have more disaster drills. What do you think about that?",
+    "modelAnswer": "I agree. Students can learn what to do when a disaster happens. Also, they will not panic in a real emergency.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, some people keep emergency goods, such as water and food, at home. Do you think more people should do this?",
+    "modelAnswerYes": "Yes. Stores may be closed for many days after a disaster. Also, people can feel safe if they are prepared.",
+    "modelAnswerNo": "No. Many people do not have enough space at home. Also, food and water must be replaced often, which is troublesome.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

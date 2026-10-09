@@ -1,0 +1,57 @@
+{
+  "id": "set-012",
+  "title": "Pet Robots",
+  "passage": "In Japan, the number of elderly people living alone is increasing. Some companies have developed pet robots that can talk and move like real animals. Many elderly people keep these robots at home, and by doing so, they feel less lonely. Some nursing homes have also started using these robots to make their residents happy.",
+  "no1": {
+    "question": "According to the passage, how do many elderly people feel less lonely?",
+    "modelAnswer": "By keeping pet robots at home.",
+    "keyPoints": [
+      "ペットロボット（pet robots）に触れている",
+      "それを家で飼う・置いておく（keep at home）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-012-illust.png",
+    "openingSentence": "One day, Riko was talking with her grandmother on the phone.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "Riko が祖母に電話で「今週末、会いに行くね（I'll visit you this weekend.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "On Saturday",
+        "keyPoints": [
+          "Riko が祖母に花を渡している",
+          "祖母がお茶を出している"
+        ]
+      },
+      {
+        "timeLabel": "That evening",
+        "keyPoints": [
+          "Riko が祖母にタブレットの使い方を教えている",
+          "祖母はタブレットで Riko とビデオ通話をしようと考えている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Riko was talking with her grandmother on the phone. She said to her, \"I'll visit you this weekend.\" On Saturday, Riko was giving some flowers to her grandmother. Her grandmother was serving tea. That evening, Riko was showing her grandmother how to use a tablet. Her grandmother was thinking of having video calls with Riko."
+  },
+  "no3": {
+    "question": "Some people say that young people should spend more time with elderly people. What do you think about that?",
+    "modelAnswer": "I agree. Young people can learn a lot from the experiences of elderly people. Also, elderly people will feel less lonely.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many elderly people use smartphones and tablets. Do you think it is a good idea for elderly people to use these devices?",
+    "modelAnswerYes": "Yes. They can easily keep in touch with their families. Also, they can get useful information, such as health news.",
+    "modelAnswerNo": "No. These devices are difficult for some elderly people to use. Also, they may be tricked by dangerous websites or emails.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

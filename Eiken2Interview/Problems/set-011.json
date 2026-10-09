@@ -1,0 +1,57 @@
+{
+  "id": "set-011",
+  "title": "Homestays in Small Towns",
+  "passage": "The number of foreign tourists in Japan has been increasing. Many of them want to experience traditional Japanese life. Some small towns offer homestays with local families, and by doing so, they attract tourists who are interested in Japanese culture. However, some people worry that these towns do not have enough places for tourists to stay.",
+  "no1": {
+    "question": "According to the passage, how do some small towns attract tourists who are interested in Japanese culture?",
+    "modelAnswer": "By offering homestays with local families.",
+    "keyPoints": [
+      "ホームステイ（homestays）を提供することに触れている",
+      "地元の家族のところに（with local families）であることを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-011-illust.png",
+    "openingSentence": "One day, Mr. and Mrs. Hayashi were talking about a trip to Kyoto.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "Mr. Hayashi が妻に「電車で京都に行こう（Let's take the train to Kyoto.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "On the day of the trip",
+        "keyPoints": [
+          "Mr. Hayashi が駅で弁当を買っている",
+          "Mrs. Hayashi が電車の時刻表を見ている"
+        ]
+      },
+      {
+        "timeLabel": "At the hotel",
+        "keyPoints": [
+          "Mrs. Hayashi がカメラがないことに気づいた",
+          "Mrs. Hayashi は電車の座席にカメラを置き忘れたと思っている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Mr. and Mrs. Hayashi were talking about a trip to Kyoto. Mr. Hayashi said to his wife, \"Let's take the train to Kyoto.\" On the day of the trip, Mr. Hayashi was buying boxed lunches at the station. Mrs. Hayashi was checking the train schedule. At the hotel, Mrs. Hayashi noticed that her camera was missing. She was thinking that she had left it on the train."
+  },
+  "no3": {
+    "question": "Some people say that Japan should accept more foreign tourists. What do you think about that?",
+    "modelAnswer": "I agree. Foreign tourists spend a lot of money, so it is good for the economy. Also, Japanese people can learn about other cultures.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many people take pictures with their smartphones instead of cameras. Do you think people will stop using cameras in the future?",
+    "modelAnswerYes": "Yes. Smartphone cameras are becoming better every year. Also, it is easier to carry only a smartphone.",
+    "modelAnswerNo": "No. Professional photographers need cameras to take high-quality pictures. Also, many people enjoy cameras as a hobby.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "set-001",
+  "title": "Food Delivery Services",
+  "passage": "Today, many restaurants offer food delivery services. Customers can order meals by using their smartphones and enjoy them at home. However, some customers complain that the food is often cold when it arrives. Some restaurants now use special boxes that keep food warm, and by doing so, they can satisfy their customers. Such services will probably become more popular.",
+  "no1": {
+    "question": "According to the passage, how can some restaurants satisfy their customers?",
+    "modelAnswer": "By using special boxes that keep food warm.",
+    "keyPoints": [
+      "特別な箱（boxes）を使うことに触れている",
+      "その箱が料理を温かく保つ（keep food warm）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-001-illust.png",
+    "openingSentence": "One day, Mr. and Mrs. Kato were talking about their son's birthday party.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": ["Mrs. Kato が夫に「ネットでケーキを注文しよう（Let's order a cake online.）」と言っている"]
+      },
+      {
+        "timeLabel": "The next day",
+        "keyPoints": ["Mr. Kato がパソコンでケーキを注文している", "Mrs. Kato がリビングを飾りつけている"]
+      },
+      {
+        "timeLabel": "On the day of the party",
+        "keyPoints": ["配達員がケーキを届けた", "Mrs. Kato はケーキが子どもたち全員には小さすぎると思っている"]
+      }
+    ],
+    "modelAnswer": "One day, Mr. and Mrs. Kato were talking about their son's birthday party. Mrs. Kato said to her husband, \"Let's order a cake online.\" The next day, Mr. Kato was ordering a cake on the computer. Mrs. Kato was decorating the living room. On the day of the party, a delivery person brought the cake. Mrs. Kato was worried that the cake was too small for all the children."
+  },
+  "no3": {
+    "question": "Some people say that people will stop cooking at home because of food delivery services. What do you think about that?",
+    "modelAnswer": "I disagree. Cooking at home is much cheaper than ordering food. Also, many people enjoy cooking with their families.",
+    "rubricHints": ["agree / disagree を最初にはっきり言う", "理由を2つ、または理由＋具体例"]
+  },
+  "no4": {
+    "question": "Today, many people use their smartphones to pay for things in stores. Do you think this will become more common in the future?",
+    "modelAnswerYes": "Yes. Paying with a smartphone is quick and easy. Also, people don't need to carry cash with them.",
+    "modelAnswerNo": "No. Some elderly people don't know how to use smartphones. Also, many people worry that their personal information may be stolen.",
+    "rubricHints": ["Yes / No を最初に言う", "理由を2つ"]
+  }
+}

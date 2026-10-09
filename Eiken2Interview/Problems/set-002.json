@@ -1,0 +1,43 @@
+{
+  "id": "set-002",
+  "title": "Tablets at School",
+  "passage": "These days, many schools are using tablet computers in class. Students can watch videos and search for information on the Internet. Some teachers record their lessons and put them online, and by doing so, they help students review what they learned at home. However, some parents worry that their children spend too much time looking at screens.",
+  "no1": {
+    "question": "According to the passage, how do some teachers help students review what they learned at home?",
+    "modelAnswer": "They record their lessons and put them online.",
+    "keyPoints": [
+      "授業を録画する（record their lessons）ことに触れている",
+      "それをネットに載せる（put them online）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-002-illust.png",
+    "openingSentence": "One day, Yuka was talking with her father in the kitchen.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": ["Yuka が父に「海岸のボランティア活動に参加したい（I want to join the beach clean-up.）」と言っている"]
+      },
+      {
+        "timeLabel": "That weekend",
+        "keyPoints": ["Yuka がほかのボランティアと海岸でゴミを拾っている", "父が写真を撮っている"]
+      },
+      {
+        "timeLabel": "A week later",
+        "keyPoints": ["Yuka が学校でクラスメートに写真を見せている", "クラスメートの1人が、次は自分も参加しようと思っている"]
+      }
+    ],
+    "modelAnswer": "One day, Yuka was talking with her father in the kitchen. She said to him, \"I want to join the beach clean-up.\" That weekend, Yuka was picking up trash on the beach with other volunteers. Her father was taking pictures of them. A week later, Yuka was showing the pictures to her classmates at school. One of her classmates was thinking of joining the activity next time."
+  },
+  "no3": {
+    "question": "Some people say that students should use computers more than textbooks in class. What do you think about that?",
+    "modelAnswer": "I disagree. Textbooks are easier to read than computer screens. Also, looking at screens for a long time is bad for students' eyes.",
+    "rubricHints": ["agree / disagree を最初にはっきり言う", "理由を2つ、または理由＋具体例"]
+  },
+  "no4": {
+    "question": "Today, many young people do volunteer work. Do you think more young people will do volunteer work in the future?",
+    "modelAnswerYes": "Yes. Many young people want to help others in their communities. Also, they can have good experiences that are useful for their future.",
+    "modelAnswerNo": "No. Young people are too busy with school and club activities. Also, there are not many chances to do volunteer work near their homes.",
+    "rubricHints": ["Yes / No を最初に言う", "理由を2つ"]
+  }
+}

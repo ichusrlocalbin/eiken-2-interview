@@ -1,0 +1,43 @@
+{
+  "id": "set-004",
+  "title": "Saving Energy at Home",
+  "passage": "Electricity prices have been rising in recent years. Because of this, many families are trying to save energy at home. Some people use LED lights instead of old ones, and in this way, they are able to lower their electricity bills. Some companies are also developing new home appliances that use less energy.",
+  "no1": {
+    "question": "According to the passage, how are some people able to lower their electricity bills?",
+    "modelAnswer": "By using LED lights instead of old ones.",
+    "keyPoints": [
+      "LEDライト（LED lights）を使うことに触れている",
+      "古いライトの代わりに（instead of old ones）であることを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-004-illust.png",
+    "openingSentence": "One day, Takuya was talking with his teacher after class.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": ["先生が Takuya に「スピーチコンテストに出てみたら？（Why don't you join the speech contest?）」と言っている"]
+      },
+      {
+        "timeLabel": "That evening",
+        "keyPoints": ["Takuya が母の前でスピーチの練習をしている", "母が拍手している（聞いている）"]
+      },
+      {
+        "timeLabel": "On the day of the contest",
+        "keyPoints": ["Takuya がステージに立っている", "Takuya はスピーチの原稿を家に忘れたと思っている"]
+      }
+    ],
+    "modelAnswer": "One day, Takuya was talking with his teacher after class. His teacher said to him, \"Why don't you join the speech contest?\" That evening, Takuya was practicing his speech in front of his mother. She was clapping her hands. On the day of the contest, Takuya was standing on the stage. He was thinking that he had left his speech notes at home."
+  },
+  "no3": {
+    "question": "Some people say that the government should do more to protect the environment. What do you think about that?",
+    "modelAnswer": "I agree. Environmental problems such as global warming are getting worse. Also, the government can make rules that companies must follow.",
+    "rubricHints": ["agree / disagree を最初にはっきり言う", "理由を2つ、または理由＋具体例"]
+  },
+  "no4": {
+    "question": "Today, some students take part in English speech contests. Do you think speech contests are good for students?",
+    "modelAnswerYes": "Yes. Students can improve their English by preparing for the contests. Also, they can become more confident when they speak in front of people.",
+    "modelAnswerNo": "No. Many students feel too nervous to speak in front of many people. Also, preparing for a contest takes time away from other studies.",
+    "rubricHints": ["Yes / No を最初に言う", "理由を2つ"]
+  }
+}

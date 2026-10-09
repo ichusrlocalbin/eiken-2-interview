@@ -1,0 +1,56 @@
+{
+  "id": "set-015",
+  "title": "Video Analysis in Sports",
+  "passage": "Technology is changing the world of sports. Many sports teams now record their games on video. Coaches check these videos with computers, and by doing so, they can find the weak points of their players. However, some people think that players should also trust their own feelings during games.",
+  "no1": {
+    "question": "According to the passage, how can coaches find the weak points of their players?",
+    "modelAnswer": "By checking the videos of their games with computers.",
+    "keyPoints": [
+      "試合の動画（videos of their games）に触れている",
+      "コンピューターでチェックする（check with computers）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-015-illust.png",
+    "openingSentence": "One day, Mai was talking with her coach after soccer practice.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "コーチが Mai に「毎朝練習したほうがいいよ（You should practice every morning.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "The next morning",
+        "keyPoints": [
+          "朝早く（日の出のころ）Mai が川沿いを走っている"
+        ]
+      },
+      {
+        "timeLabel": "On the day of the game",
+        "keyPoints": [
+          "Mai がベンチに座って足首を押さえている（けがをした）",
+          "Mai は試合に出てボールをけりたいと思っている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Mai was talking with her coach after soccer practice. Her coach said to her, \"You should practice every morning.\" The next morning, Mai was running along the river early in the morning. On the day of the game, Mai was sitting on the bench and holding her ankle. She was thinking that she wanted to play in the game."
+  },
+  "no3": {
+    "question": "Some people say that watching sports on TV is more enjoyable than watching them at a stadium. What do you think about that?",
+    "modelAnswer": "I disagree. People can feel the exciting atmosphere at a stadium. Also, they can cheer for their team together with other fans.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many people use smartwatches to check their health. Do you think more people will use smartwatches in the future?",
+    "modelAnswerYes": "Yes. Smartwatches can tell people when they have health problems. Also, they are becoming cheaper and easier to use.",
+    "modelAnswerNo": "No. Smartwatches are still too expensive for many people. Also, some people do not like wearing a watch all the time.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

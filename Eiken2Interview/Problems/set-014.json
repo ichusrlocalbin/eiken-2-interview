@@ -1,0 +1,57 @@
+{
+  "id": "set-014",
+  "title": "Shopping Bags",
+  "passage": "In Japan, stores have had to charge customers for plastic shopping bags since 2020. Because of this, many people now bring their own bags when they go shopping. Stores encourage customers to use their own bags, and by doing so, they reduce the amount of plastic waste. Some people say that other plastic products should also be reduced.",
+  "no1": {
+    "question": "According to the passage, how do stores reduce the amount of plastic waste?",
+    "modelAnswer": "By encouraging customers to use their own bags.",
+    "keyPoints": [
+      "客にすすめる・促す（encourage customers）ことに触れている",
+      "自分のバッグを使う（use their own bags）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-014-illust.png",
+    "openingSentence": "One day, Yui and her mother were talking in the kitchen.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "Yui が母に「今夜は私が夕食を作るね（I'll make dinner tonight.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "At the supermarket",
+        "keyPoints": [
+          "Yui がスーパーで野菜を選んでいる",
+          "Yui が野菜をかごに入れている"
+        ]
+      },
+      {
+        "timeLabel": "That evening",
+        "keyPoints": [
+          "Yui が料理を焦がしてしまった（鍋から煙が出ている）",
+          "Yui はピザを注文しようと考えている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Yui and her mother were talking in the kitchen. Yui said to her mother, \"I'll make dinner tonight.\" At the supermarket, Yui was choosing some vegetables. She was putting them into a basket. That evening, Yui burned the food, and there was smoke coming from the pan. Yui was thinking of ordering a pizza."
+  },
+  "no3": {
+    "question": "Some people say that children should help their parents with housework more often. What do you think about that?",
+    "modelAnswer": "I agree. Children can learn useful skills, such as cooking and cleaning. Also, it helps parents who are busy with their jobs.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many supermarkets have self-checkout machines. Do you think more stores will use these machines in the future?",
+    "modelAnswerYes": "Yes. Stores do not need as many workers, so they can save money. Also, customers can pay quickly without waiting in line.",
+    "modelAnswerNo": "No. Some elderly people find these machines difficult to use. Also, customers may make mistakes when they scan items.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

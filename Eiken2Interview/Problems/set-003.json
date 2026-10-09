@@ -1,0 +1,43 @@
+{
+  "id": "set-003",
+  "title": "Electric Bicycles",
+  "passage": "Electric bicycles are becoming popular in Japan. They have a small motor, so people can ride up hills easily. Some cities let people rent electric bicycles at stations, and by doing so, they hope to reduce the number of cars on the roads. However, some people say that riders should follow traffic rules more carefully.",
+  "no1": {
+    "question": "According to the passage, how do some cities hope to reduce the number of cars on the roads?",
+    "modelAnswer": "By letting people rent electric bicycles at stations.",
+    "keyPoints": [
+      "電動自転車を貸す・借りられるようにする（rent electric bicycles）ことに触れている",
+      "駅で（at stations）であることを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-003-illust.png",
+    "openingSentence": "One day, Mr. and Mrs. Mori were talking about their weekend plans.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": ["Mr. Mori が妻に「湖へキャンプに行こう（Let's go camping by the lake.）」と言っている"]
+      },
+      {
+        "timeLabel": "On Saturday morning",
+        "keyPoints": ["Mr. Mori が車にテントを積んでいる", "Mrs. Mori がサンドイッチを作っている"]
+      },
+      {
+        "timeLabel": "At the lake",
+        "keyPoints": ["雨が降り始めた", "Mrs. Mori は天気予報を確認すればよかったと思っている"]
+      }
+    ],
+    "modelAnswer": "One day, Mr. and Mrs. Mori were talking about their weekend plans. Mr. Mori said to his wife, \"Let's go camping by the lake.\" On Saturday morning, Mr. Mori was putting a tent into the car. Mrs. Mori was making sandwiches. At the lake, it started to rain. Mrs. Mori was thinking that she should have checked the weather forecast."
+  },
+  "no3": {
+    "question": "Some people say that people should use public transportation instead of their own cars. What do you think about that?",
+    "modelAnswer": "I agree. Using public transportation is better for the environment. Also, it can reduce traffic jams in big cities.",
+    "rubricHints": ["agree / disagree を最初にはっきり言う", "理由を2つ、または理由＋具体例"]
+  },
+  "no4": {
+    "question": "Today, many people enjoy outdoor activities such as camping. Do you think more people will go camping in the future?",
+    "modelAnswerYes": "Yes. Many people want to relax in nature because they are busy with work. Also, camping goods are becoming cheaper and easier to use.",
+    "modelAnswerNo": "No. Camping takes a lot of time to prepare. Also, many people prefer to stay at comfortable hotels.",
+    "rubricHints": ["Yes / No を最初に言う", "理由を2つ"]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "set-010",
+  "title": "School Lunches and Local Farms",
+  "passage": "School lunches are important for children's health. Some schools use vegetables grown by local farmers in their lunches. These schools invite farmers to talk to the students, and by doing so, they teach students about local farming. Many parents are happy that their children can learn about food in this way.",
+  "no1": {
+    "question": "According to the passage, how do these schools teach students about local farming?",
+    "modelAnswer": "By inviting local farmers to talk to the students.",
+    "keyPoints": [
+      "地元の農家（farmers）を招く（invite）ことに触れている",
+      "生徒に話をしてもらう（talk to the students）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-010-illust.png",
+    "openingSentence": "One day, Ms. Kimura was talking with her students in the classroom.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "Ms. Kimura が生徒に「来週、料理教室をしましょう（Let's have a cooking class next week.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "The next week",
+        "keyPoints": [
+          "生徒たちが野菜を切っている",
+          "Ms. Kimura が鍋の使い方を見せている"
+        ]
+      },
+      {
+        "timeLabel": "After the class",
+        "keyPoints": [
+          "調理室がとても散らかっていた",
+          "Ms. Kimura は生徒たちに調理室を片付けてほしいと思っている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Ms. Kimura was talking with her students in the classroom. She said to them, \"Let's have a cooking class next week.\" The next week, the students were cutting vegetables. Ms. Kimura was showing them how to use a pot. After the class, the kitchen was very messy. Ms. Kimura was thinking that the students should clean the kitchen."
+  },
+  "no3": {
+    "question": "Some people say that students should learn how to cook at school. What do you think about that?",
+    "modelAnswer": "I agree. Cooking is a useful skill when students live alone in the future. Also, they can learn about healthy food.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many families eat dinner at different times. Do you think families should eat dinner together more often?",
+    "modelAnswerYes": "Yes. Family members can talk about their day during dinner. Also, children can learn good eating habits from their parents.",
+    "modelAnswerNo": "No. Many parents are too busy with their jobs. Also, children often have club activities or cram school in the evening.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

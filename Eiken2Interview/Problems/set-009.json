@@ -1,0 +1,57 @@
+{
+  "id": "set-009",
+  "title": "Working from Home",
+  "passage": "In recent years, many companies have allowed their workers to work from home. These workers do not need to take crowded trains every day. Some companies use online meeting systems, and by doing so, they make it easy for workers to communicate with each other. However, some workers feel lonely because they cannot see their coworkers.",
+  "no1": {
+    "question": "According to the passage, how do some companies make it easy for workers to communicate with each other?",
+    "modelAnswer": "By using online meeting systems.",
+    "keyPoints": [
+      "オンライン会議のシステム（online meeting systems）に触れている",
+      "それを使う（use）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-009-illust.png",
+    "openingSentence": "One day, Mr. Tanaka was talking with his daughter in the living room.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "娘が Mr. Tanaka に「犬を飼ってもいい？（Can we get a dog?）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "The next week",
+        "keyPoints": [
+          "娘がペットショップで子犬を抱いている",
+          "Mr. Tanaka がレジでお金を払っている"
+        ]
+      },
+      {
+        "timeLabel": "A month later",
+        "keyPoints": [
+          "雨の朝、Mr. Tanaka が一人で犬の散歩をしている（娘は寝ている）",
+          "Mr. Tanaka は娘も犬の世話をするべきだと思っている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Mr. Tanaka was talking with his daughter in the living room. She said to him, \"Can we get a dog?\" The next week, his daughter was holding a puppy at a pet shop. Mr. Tanaka was paying at the counter. A month later, Mr. Tanaka was walking the dog alone in the rain, and his daughter was still sleeping. He was thinking that his daughter should also take care of the dog."
+  },
+  "no3": {
+    "question": "Some people say that having a pet is good for children. What do you think about that?",
+    "modelAnswer": "I agree. Children can learn to be responsible by taking care of pets. Also, they can learn to be kind to animals.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many people use online meetings for work. Do you think face-to-face meetings will become less common in the future?",
+    "modelAnswerYes": "Yes. Online meetings save time because people do not have to travel. Also, companies can save money on transportation.",
+    "modelAnswerNo": "No. It is easier to understand each other in face-to-face meetings. Also, some people are not good at using computers.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

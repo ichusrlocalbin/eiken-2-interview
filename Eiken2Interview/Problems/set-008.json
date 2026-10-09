@@ -1,0 +1,57 @@
+{
+  "id": "set-008",
+  "title": "Recycling Clothes",
+  "passage": "Many people buy new clothes and throw away old ones. Some clothing stores now collect used clothes from their customers. These stores recycle the clothes into new products, and by doing so, they help to reduce waste. Such efforts are becoming more important as more people think about the environment.",
+  "no1": {
+    "question": "According to the passage, how do some clothing stores help to reduce waste?",
+    "modelAnswer": "By collecting used clothes from customers and recycling them into new products.",
+    "keyPoints": [
+      "客から古着を回収する（collect used clothes）ことに触れている",
+      "それを新しい製品にリサイクルする（recycle into new products）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-008-illust.png",
+    "openingSentence": "One day, Aya was talking with her friend after school.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "友だちが Aya に「文化祭のために動画を作ろう（Let's make a video for the school festival.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "A week later",
+        "keyPoints": [
+          "Aya が体育館で動画を撮影している",
+          "友だちがダンスをしている"
+        ]
+      },
+      {
+        "timeLabel": "On the day of the festival",
+        "keyPoints": [
+          "プロジェクターが動かなかった",
+          "Aya はタブレットで動画を見せようと考えている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Aya was talking with her friend after school. Her friend said to her, \"Let's make a video for the school festival.\" A week later, Aya was filming a video in the gym. Her friend was dancing. On the day of the festival, the projector did not work. Aya was thinking of showing the video on a tablet."
+  },
+  "no3": {
+    "question": "Some people say that students should spend less time on club activities and more time on studying. What do you think about that?",
+    "modelAnswer": "I disagree. Students can make good friends through club activities. Also, they can learn teamwork, which is useful in the future.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many young people post videos on the Internet. Do you think this is a good thing?",
+    "modelAnswerYes": "Yes. Young people can show their ideas and talents to many people. Also, they can learn new skills, such as editing videos.",
+    "modelAnswerNo": "No. Young people may show their personal information by mistake. Also, they may receive bad comments from strangers.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

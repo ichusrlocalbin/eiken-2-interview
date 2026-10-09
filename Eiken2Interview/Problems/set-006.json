@@ -1,0 +1,57 @@
+{
+  "id": "set-006",
+  "title": "Seeing Doctors Online",
+  "passage": "Today, some hospitals let patients see doctors online. Patients can talk with doctors through their computers or smartphones. Elderly people who live far from hospitals use this service, and by doing so, they do not have to travel for a long time. However, some doctors say that it is difficult to check patients carefully online.",
+  "no1": {
+    "question": "According to the passage, how do elderly people who live far from hospitals avoid traveling for a long time?",
+    "modelAnswer": "By seeing doctors online.",
+    "keyPoints": [
+      "オンラインで（パソコンやスマートフォンを通して）ということに触れている",
+      "医者に診てもらう（see doctors / talk with doctors）ことを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-006-illust.png",
+    "openingSentence": "One day, Kenta was talking with his mother about his summer vacation.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "Kenta が母に「科学博物館に行きたい（I want to go to the science museum.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "The next Saturday",
+        "keyPoints": [
+          "母が博物館の入口でチケットを買っている",
+          "Kenta が館内の地図を見ている"
+        ]
+      },
+      {
+        "timeLabel": "Inside the museum",
+        "keyPoints": [
+          "ロボットのショーの前に長い列ができていた",
+          "Kenta はもっと早く来ればよかったと思っている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Kenta was talking with his mother about his summer vacation. He said to her, \"I want to go to the science museum.\" The next Saturday, his mother was buying tickets at the entrance of the museum. Kenta was looking at a map of the museum. Inside the museum, there was a long line in front of the robot show. Kenta was thinking that they should have come earlier."
+  },
+  "no3": {
+    "question": "Some people say that people in Japan should eat more traditional Japanese food. What do you think about that?",
+    "modelAnswer": "I agree. Traditional Japanese food is healthy because it has a lot of vegetables and fish. Also, it is an important part of Japanese culture.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, some museums are open until late at night. Do you think more museums should do this?",
+    "modelAnswerYes": "Yes. Many people are busy during the day and cannot visit museums. Also, museums can get more visitors and earn more money.",
+    "modelAnswerNo": "No. Museums would need to pay more money to their workers. Also, not many people would come late at night.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+// 共通の設定。開発チームなど人によって違う設定は Local.xcconfig（git 管理外）に書く。
+// 例: Config/Local.xcconfig に `DEVELOPMENT_TEAM = XXXXXXXXXX` と書く
+#include? "Local.xcconfig"

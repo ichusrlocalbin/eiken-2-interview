@@ -1,0 +1,57 @@
+{
+  "id": "set-007",
+  "title": "Digital Books at Libraries",
+  "passage": "Many people today read books on their tablets. Because of this, some libraries have started lending digital books. People can borrow these books through the Internet, and in this way, they can read them without going to the library. However, some people still prefer paper books because they are easier on their eyes.",
+  "no1": {
+    "question": "According to the passage, how can people read books without going to the library?",
+    "modelAnswer": "By borrowing digital books through the Internet.",
+    "keyPoints": [
+      "電子書籍（digital books）を借りることに触れている",
+      "インターネットを通して（through the Internet）であることを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-007-illust.png",
+    "openingSentence": "One day, Mr. and Mrs. Yamada were talking about their new house.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": [
+          "Mrs. Yamada が夫に「自分たちで壁を塗ろう（Let's paint the walls ourselves.）」と言っている"
+        ]
+      },
+      {
+        "timeLabel": "That weekend",
+        "keyPoints": [
+          "Mr. Yamada が壁にペンキを塗っている",
+          "Mrs. Yamada が床に新聞紙を敷いている"
+        ]
+      },
+      {
+        "timeLabel": "A few hours later",
+        "keyPoints": [
+          "猫がぬれたペンキの上を歩き、床に足あとがついていた",
+          "Mr. Yamada は猫を別の部屋に入れておけばよかったと思っている"
+        ]
+      }
+    ],
+    "modelAnswer": "One day, Mr. and Mrs. Yamada were talking about their new house. Mrs. Yamada said to her husband, \"Let's paint the walls ourselves.\" That weekend, Mr. Yamada was painting a wall. Mrs. Yamada was putting newspapers on the floor. A few hours later, their cat had walked on the wet paint and left footprints on the floor. Mr. Yamada was thinking that he should have kept the cat in another room."
+  },
+  "no3": {
+    "question": "Some people say that it is better to live in a house than in an apartment. What do you think about that?",
+    "modelAnswer": "I agree. Houses usually have more space than apartments. Also, people do not have to worry about making noise for their neighbors.",
+    "rubricHints": [
+      "agree / disagree を最初にはっきり言う",
+      "理由を2つ、または理由＋具体例"
+    ]
+  },
+  "no4": {
+    "question": "Today, many people do DIY projects, such as painting their own homes. Do you think more people will do DIY in the future?",
+    "modelAnswerYes": "Yes. People can save money by doing things by themselves. Also, there are many videos on the Internet that show how to do DIY.",
+    "modelAnswerNo": "No. DIY projects take a lot of time. Also, professionals can do the work much better and more safely.",
+    "rubricHints": [
+      "Yes / No を最初に言う",
+      "理由を2つ"
+    ]
+  }
+}

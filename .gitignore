@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# 画像・履歴の受け渡し用（加工前の画像と、回答の文字起こしを含む履歴）
+assets-inbox/
+
+# 開発チームなど、人ごとの署名設定
+Config/Local.xcconfig

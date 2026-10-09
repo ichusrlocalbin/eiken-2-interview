@@ -1,0 +1,43 @@
+{
+  "id": "set-005",
+  "title": "Robots in Restaurants",
+  "passage": "Many restaurants in Japan have started using robots. These robots carry food from the kitchen to the tables. Restaurant owners use robots to do simple jobs, and by doing so, they can solve the problem of not having enough workers. However, some customers say that they prefer to be served by people.",
+  "no1": {
+    "question": "According to the passage, how can restaurant owners solve the problem of not having enough workers?",
+    "modelAnswer": "By using robots to do simple jobs.",
+    "keyPoints": [
+      "ロボットを使う（use robots）ことに触れている",
+      "簡単な仕事（simple jobs）をさせることを述べている"
+    ]
+  },
+  "no2": {
+    "image": "set-005-illust.png",
+    "openingSentence": "One day, Ms. Ito was talking with her daughter in the garden.",
+    "panels": [
+      {
+        "timeLabel": null,
+        "keyPoints": ["娘が Ms. Ito に「野菜を育てよう（Let's grow some vegetables.）」と言っている"]
+      },
+      {
+        "timeLabel": "A few weeks later",
+        "keyPoints": ["娘が植物に水をやっている", "Ms. Ito が畑のまわりにフェンスを立てている"]
+      },
+      {
+        "timeLabel": "One morning",
+        "keyPoints": ["鳥がトマトを食べていた", "娘は植物にネットをかけようと考えている"]
+      }
+    ],
+    "modelAnswer": "One day, Ms. Ito was talking with her daughter in the garden. Her daughter said to her, \"Let's grow some vegetables.\" A few weeks later, her daughter was watering the plants. Ms. Ito was putting up a fence around the garden. One morning, some birds were eating the tomatoes. Ms. Ito's daughter was thinking of putting a net over the plants."
+  },
+  "no3": {
+    "question": "Some people say that robots will do most people's jobs in the future. What do you think about that?",
+    "modelAnswer": "I disagree. Robots cannot do jobs that need communication skills, like teaching or nursing. Also, people will create new kinds of jobs.",
+    "rubricHints": ["agree / disagree を最初にはっきり言う", "理由を2つ、または理由＋具体例"]
+  },
+  "no4": {
+    "question": "Today, many people grow vegetables at home. Do you think more people will grow their own vegetables in the future?",
+    "modelAnswerYes": "Yes. Vegetables are becoming more expensive in stores. Also, growing vegetables is a good way to relax.",
+    "modelAnswerNo": "No. Many people live in apartments without gardens. Also, they are too busy to take care of plants every day.",
+    "rubricHints": ["Yes / No を最初に言う", "理由を2つ"]
+  }
+}
